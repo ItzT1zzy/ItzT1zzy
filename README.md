@@ -1,30 +1,56 @@
+<h1 align="center">Привет, я t1zzy_ 👋</h1>
 
-<h1 align="center">Привет, я <i>t1zzy_</i> 👋</h1>
+###
 
+<p align="left">я Макс, начинающий программист из Украины. Моё погружение в мир кода началось недавно, но каждый день я с воодушевлением углубляюсь в этот увлекательный лабиринт программирования. В моём стремлении к новым знаниям и навыкам я нахожу поистине вдохновляющую силу, и каждая строчка кода, написанная мной, становится значимым шагом вперёд. Каждый проект, будь то небольшое приложение или более сложная задача, становится для меня возможностью не только применить текущие навыки, но и узнать что-то новое. Я увлечённо исследую различные языки программирования, фреймворки и технологии, стремясь расширить свой арсенал инструментов.</p>
 
-<h2 align="center">🚀 Немного о себе</h2>
-я Макс, начинающий программист из Украины. Моё погружение в мир кода началось недавно, но каждый день я с воодушевлением углубляюсь в этот увлекательный лабиринт программирования. В моём стремлении к новым знаниям и навыкам я нахожу поистине вдохновляющую силу, и каждая строчка кода, написанная мной, становится значимым шагом вперёд. Каждый проект, будь то небольшое приложение или более сложная задача, становится для меня возможностью не только применить текущие навыки, но и узнать что-то новое. Я увлечённо исследую различные языки программирования, фреймворки и технологии, стремясь расширить свой арсенал инструментов.
+###
 
-<h2 align="center">🔗 Связь со мной</h2>
+<h3 align="center">🔗 Связь со мной</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_makss.sssim_)
+###
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/NXEh7nHEgh)
+<div align="left">
+  <a href="https://discord.com/invite/NXEh7nHEgh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/_makss.sssim_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/ItzT1zzy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  </a>
+</div>
 
-[![osu](https://img.shields.io/badge/osu_profile-E6649E?style=for-the-badge&logo=osu&logoColor=white)](https://osu.ppy.sh/users/34479656)
+###
 
-My Discord - **t1zzy_**
+<h3 align="center">🛠 Навыки</h3>
 
-<h2 align="center">🛠 Навыки</h2>
+###
 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+###
 
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/)
+<h3 align="center">📊 Сатистика</h3>
 
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://www.w3schools.com/cs/)
+###
 
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.w3schools.com/java/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItzT1zzy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItzT1zzy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.w3schools.com/python/)
+###
