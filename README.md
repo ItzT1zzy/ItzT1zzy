@@ -9,11 +9,11 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_makss.sssim_)
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/NXEh7nHEgh)
 
 [![osu](https://img.shields.io/badge/osu_profile-E6649E?style=for-the-badge&logo=osu&logoColor=white)](https://osu.ppy.sh/users/34479656)
 
-Discord - **t1zzy_**
+My Discord - **t1zzy_**
 
 <h2 align="center">🛠 Навыки</h2>
 
