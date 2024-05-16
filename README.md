@@ -44,13 +44,12 @@
 
 ###
 
-<h3 align="center">📊 Сатистика</h3>
+<h3 align="center">🎮 osu! Профиль</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItzT1zzy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItzT1zzy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://osekai.net/profiles/img/banner.svg?id=34479656">
 </div>
 
 ###
